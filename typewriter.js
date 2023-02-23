@@ -7,7 +7,3 @@ for (let char of sentence) {
   }, delay);
   delay += 200;
 }
-
-setTimeout(() => {
-  console.log(); // add a newline at the end
-}, delay);
